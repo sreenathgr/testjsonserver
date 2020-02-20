@@ -3,7 +3,15 @@
     {
       "id": 1,
       "title": "Braveheart"
-    }
+    },
+    {
+      "id": 2,
+      "title": "Matrix"
+    },
+    {
+      "id": 3,
+      "title": "Inception"
+    }   
   ],
   "profile": {
     "name": "typicode"
